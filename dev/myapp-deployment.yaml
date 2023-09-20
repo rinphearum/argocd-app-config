@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: phearum/react-jenkin:latest
+        image: phearum/react-jenkin:20
         ports:
         - containerPort: 80
       
